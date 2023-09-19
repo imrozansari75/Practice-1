@@ -1,0 +1,256 @@
+ *{
+ 	box-sizing: border-box;
+ 	margin:0px;
+ 	padding:0px;
+ }
+.cuntainer{
+		background-color: #ff6347;
+	line-height: 50px;
+}
+
+.left{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	position: absolute;
+	display: inline-block;
+	
+}
+
+.left img{
+	position: absolute;
+	left: 10px;
+     width: 60px;
+     filter: invert(100%);
+}
+
+.mid{
+	display: block;
+	
+	width: 40%;
+	margin:0px 640px;
+}
+
+.navbar li{
+	display: inline;
+	
+	font-size: 20px;
+}
+
+.navbar li a{
+	color: white;
+	padding: 15px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	text-decoration: none;
+}
+
+.right{
+	display: inline-block;
+	position: absolute;
+	right: 30px;
+	top: 3px;
+}
+
+.right a{
+	color: white;
+	text-decoration: none;
+	
+}
+
+.btn{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	border-radius: 6px;
+	font-size: 17px;
+	color: white;
+	background-color: black;
+	padding: 4px 14px;
+	border: 2px solid black;
+	
+}
+
+.left p{
+	margin-left: 70px;
+	font-weight: bold;
+	font-size: 23px;
+	color: white;
+}
+
+.container img{
+	width:100%;
+}
+
+.container h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	color: white;
+	font-size: 80px;
+	position: absolute;
+	left: 80px;	
+	top: 250px;
+}
+
+.container p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	color: white;
+	position: absolute;
+	left: 80px;
+	top: 450px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.botton{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	border-radius: 4px;
+	position: absolute;
+	top: 550px;
+	left: 80px;
+	font-size: 20px;
+	color: white;
+	background-color: transparent;
+	border: 2px solid white;
+	padding: 10px;
+}
+
+.botton a{ 
+	color: white;
+	text-decoration: none;
+}
+
+.text {
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	
+	margin-top: 50px;
+}
+
+.text span{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	position: absolute;
+	left: 80px;
+	top: 920px;
+}
+
+
+.text h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	position: absolute;
+	left: 80px;
+	top: 940px;
+}
+
+
+.text p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	position: absolute;
+	right: 40px;
+	top: 925px;
+}
+
+.india{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	border: 2px solid black;
+	position: absolute;
+	left: 10px;
+	top: 1000px;
+	width: 28%;
+	padding: 20px;
+	background-color: black;
+	color: white;
+
+}
+
+.india h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	text-align: center;
+	margin: 15px;
+}
+
+.pak{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+		border: 2px solid black;
+		position: absolute;
+		left: 440px;
+		top: 1000px;
+		width: 28%;
+		padding: 20px;
+		color:white;
+		background-color: black;
+}
+
+
+.pak h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	text-align: center;
+	margin: 15px;
+}
+
+.china{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	border: 2px solid black;
+		position: absolute;
+		left: 870px;
+		top: 1000px;
+		width: 28%;
+		padding: 20px;
+		color:white;
+		background-color: black;
+}
+
+
+.china h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	text-align: center;
+	margin: 15px;
+}
+
+
+.india a{
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.pak a{
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+.china a{
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+.link{
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	color: white;
+	font-weight: bold;
+	padding: 6px;
+	border: none;
+	border-radius: 6px;
+}
+
+.india a{
+	text-decoration: none;
+}
+
+.boxs{
+   justify-content: space-evenly;
+}
